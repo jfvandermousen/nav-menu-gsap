@@ -1,16 +1,12 @@
-## Vintage chevy
-
-
-## Project Description
+## Description
 
 Animmated menu navigation with GSAP
 
-
-### Tech  used
+#### Tech  used
 
 - HTML
 - CSS
-- svg burger menu
+- Burger menu in SVG
 - [GSAP Timeline]
 
 
@@ -25,5 +21,5 @@ Animmated menu navigation with GSAP
 
 [//]: #
 
-[GASAP]: <https://greensock.com/docs/v3/GSAP/Timeline>
+[GSAP Timeline]: <https://greensock.com/docs/v3/GSAP/Timeline>
 [Visual Studio Code]: <https://code.visualstudio.com>
