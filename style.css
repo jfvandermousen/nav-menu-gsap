@@ -19,9 +19,11 @@ body {
 }
 
 .brand-logo a {
-    color: #fff;
+    color: #F7BEBD;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
     text-decoration: none ;
-    font-size: 4.5rem;
+    font-size: 5rem;
     font-family: 'Yesteryear', cursive;
     font-weight: 400;
 
@@ -57,7 +59,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2.5rem 4rem;
+    padding: 1.5rem 4rem;
 }
 
 .fullpage-nav {
@@ -166,7 +168,7 @@ nav li:hover {
 }
 
 .placeholder-title h1 {
-    font-size: 5vw;
+    font-size: 7vw;
     color: #fff;
     font-weight: 600;
     text-align: center;
@@ -191,7 +193,7 @@ nav li:hover {
         padding: 0 7vw;
     }
     .placeholder-title h1 {
-        font-size: 10vw;
+        font-size: 12vw;
         color: #fff;
         font-weight: 600;
         text-align: center;
