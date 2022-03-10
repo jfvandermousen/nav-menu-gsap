@@ -11,14 +11,7 @@ Animmated menu navigation with GSAP
 - HTML
 - CSS
 - svg burger menu
-- GSAP Timeline
-
-
-## GITHUB REPO
-
-1. 
-
-
+- [GSAP Timeline]
 
 
 
@@ -32,5 +25,5 @@ Animmated menu navigation with GSAP
 
 [//]: #
 
-[node.js]: <http://nodejs.org>
+[GASAP]: <https://greensock.com/docs/v3/GSAP/Timeline>
 [Visual Studio Code]: <https://code.visualstudio.com>
